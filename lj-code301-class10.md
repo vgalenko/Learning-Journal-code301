@@ -1,3 +1,5 @@
+# LJ Code 301 - Day 10
+
 Today in class we covered a topic of functional programing and how declarative
 functions are much more cleaner, efficient and process faster. Imperative functions
 take up more lines of code which then takes longer to process, and longer to write it out.
